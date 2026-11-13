@@ -48,10 +48,5 @@ Odczyt jest zaplanowany nominalnie na 256 Hz, a na wykres trafia co czwarta pró
 
 Obraz przedstawia powtarzające się wychylenia i zielone znaczniki. **Znaczniki na JPG sięgają około 1200, podczas gdy obecny szkic wysyła 750** — nie można przypisać tego zrzutu dokładnie tej wersji kodu. Bez danych źródłowych i jednostki osi czasu nie wyznaczamy z obrazu BPM ani napięcia na elektrodach.
 
-## Analiza i sprawdzenie
-
-Kompilacja dla UNO zakończyła się poprawnie: **3840 B Flash, 230 B statycznego RAM**, bez ostrzeżeń szkicu. Dwanaście sprawdzeń programowych potwierdziło również ograniczenia: impuls rozruchowy, utratę części markerów, detekcję poziomu zamiast maksimum i możliwość pozostawienia starego BPM. **Nie testowano fizycznego układu.**
-
-Szczegóły: [ANALIZA_KODU.md](ANALIZA_KODU.md). Ustawienia sprzętu zweryfikowano w [źródłach producenta](ZRODLA.md).
 
 [Wszystkie projekty](../../README.md)
