@@ -12,10 +12,3 @@ Schematy i opis odnoszą się do **Arduino UNO R3 / ATmega328P oraz Olimex SHIEL
 | [Arduino — źródło dokumentacji `analogReference()`](https://github.com/arduino/reference-en/blob/master/Language/Functions/Analog%20IO/analogReference.adoc) | Treść ostrzeżenia dotyczącego konfliktu źródeł AREF i ryzyka uszkodzenia mikrokontrolera. |
 
 Warunek **laptop tylko na baterii, bez innych połączeń przewodowych** przy elektrodach na skórze przyjęto dla tego projektu, aby ograniczyć drogi połączenia z siecią elektryczną. Podobne zalecenie zespołu Olimex jest opisane na [forum producenta dla pokrewnego projektu EEG](https://www.olimex.com/forum/index.php?topic=205.0). Nie jest to certyfikacja bezpieczeństwa ani dowód zgodności tego układu z normą medyczną.
-
-## Pochodzenie materiałów
-
-- `ekg_test4_ino.ino` i `ekg_wynik.jpg` są oryginalnymi plikami dostarczonymi przez użytkownika; zachowano je bez zmian.
-- Schematy montażowy i elektryczny to opracowania poglądowe na podstawie wymienionej dokumentacji. Nie skopiowano projektu PCB ani fotografii producenta. Schemat montażowy nie odwzorowuje dokładnego położenia elementów i zworek każdej rewizji nakładki.
-- Dokładne wartości współczynników filtrów i pasma dyskretnego wynikają z obliczeń dla równań użytych w szkicu. Ograniczenia algorytmu sprawdzono na oryginalnych funkcjach `setup()` i `loop()` z atrapami interfejsu Arduino. Opis i raporty znajdują się w [analizie kodu](ANALIZA_KODU.md).
-- Nie wykonywano pomiarów na sprzęcie ani walidacji klinicznej. Z dołączonego obrazu nie odtwarzano nieznanych parametrów eksperymentu.
