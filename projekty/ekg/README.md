@@ -6,10 +6,16 @@ Zachowano oryginalny [kod Arduino](ekg_test4_ino/ekg_test4_ino.ino) oraz dostarc
 
 ## Potrzebne elementy
 
-- Arduino UNO R3 / ATmega328P, logika **5 V**.
-- Nakładka **Olimex SHIELD-EKG-EMG**, zakładana bezpośrednio na listwy UNO.
-- Komplet elektrod z przewodem Olimex **SHIELD-EKG-EMG-PRO**. Przedstawione kolory odnoszą się do tego przewodu; przy innym zestawie sprawdź dokumentację.
-- Przewód USB A–B i laptop z Arduino IDE.
+| Element | Ilość | Zastosowanie |
+| --- | ---: | --- |
+| Arduino UNO R3 / ATmega328P, **5 V** | 1 szt. | Odczytuje A0, przetwarza próbki i przesyła dane do komputera. |
+| **Olimex SHIELD-EKG-EMG** | 1 szt. | Dodatkowa płytka: wzmacniacz i filtry sygnału z elektrod; nakładana na listwy UNO. |
+| **Olimex SHIELD-EKG-EMG-PRO** | 1 szt. | Przewód elektrod z jackiem 3,5 mm i trzema zatrzaskami: L, R, DRL. |
+| Kompatybilne elektrody żelowe, np. **ECG-GEL-ELECTRODE** | 3 szt. | Oddzielne elektrody do podłączenia przewodu PRO. |
+| Przewód USB A–B z transmisją danych | 1 szt. | Łączy UNO z laptopem i zasila zestaw. |
+| Laptop z Arduino IDE, pracujący na baterii | 1 szt. | Wyświetla przebiegi w Serial Plotter. |
+
+**Przewód PRO nie zawiera elektrod żelowych** — są osobną pozycją zakupową. Przedstawione na schemacie kolory odnoszą się do tego przewodu; przy innym zestawie sprawdź dokumentację. Pełna lista z odnośnikami producenta i opisem dodatkowej płytki: [LISTA_ELEMENTOW.md](LISTA_ELEMENTOW.md).
 
 **Przy elektrodach na skórze laptop ma pracować wyłącznie na baterii:** odłącz ładowarkę, stację dokującą i pozostałe kable. Nie podłączaj zasilacza, oscyloskopu ani innych urządzeń połączonych z siecią elektryczną. To warunek użycia tego projektu, a nie potwierdzenie zgodności układu z normami dla aparatury medycznej.
 
