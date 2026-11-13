@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<title>EKG — Arduino UNO + Olimex SHIELD-EKG/EMG</title>
+<desc>Arduino UNO 5 V i Olimex SHIELD-EKG-EMG; widok edukacyjny. montaz_EKG</desc>
+<rect x="0" y="0" width="1800" height="1200" rx="0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<rect x="60" y="38" width="8" height="46" rx="0" fill="#008c99" stroke="none" stroke-width="2"/>
+<polyline points="63,428 48,428 48,1051 866,1051 866,904 918,904" stroke="#445e6c" stroke-width="10" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="838,497 914,497 914,350 1116,350" stroke="#354d5b" stroke-width="13" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="55" y="1084" width="1690" height="73" rx="6" fill="#fff1e8" stroke="#e2b396" stroke-width="2"/>
+<polyline points="1200,364 1300,364 1300,215 1760,215 1760,481 1660,481" stroke="#ffffff" stroke-width="11.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1200,364 1300,364 1300,215 1760,215 1760,481 1660,481" stroke="#d72f3f" stroke-width="4.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1200,417 1265,417 1265,481 1409,481" stroke="#ffffff" stroke-width="11.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1200,417 1265,417 1265,481 1409,481" stroke="#a0adb7" stroke-width="4.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1200,470 1240,470 1240,740 1357,740 1357,793 1473,793" stroke="#ffffff" stroke-width="11.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1200,470 1240,470 1240,740 1357,740 1357,793 1473,793" stroke="#242a32" stroke-width="4.5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="118" y="330" width="690" height="410" rx="10" fill="#d7e0e3" stroke="none" stroke-width="2"/>
+<rect x="105" y="318" width="690" height="410" rx="10" fill="#087e94" stroke="#075e72" stroke-width="2"/>
+<ellipse cx="130.0" cy="345.0" rx="9.0" ry="9.0" fill="#d6b86d" stroke="none" stroke-width="2"/>
+<ellipse cx="130.0" cy="345.0" rx="5.0" ry="5.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="765.0" cy="345.0" rx="9.0" ry="9.0" fill="#d6b86d" stroke="none" stroke-width="2"/>
+<ellipse cx="765.0" cy="345.0" rx="5.0" ry="5.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="130.0" cy="704.0" rx="9.0" ry="9.0" fill="#d6b86d" stroke="none" stroke-width="2"/>
+<ellipse cx="130.0" cy="704.0" rx="5.0" ry="5.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="765.0" cy="704.0" rx="9.0" ry="9.0" fill="#d6b86d" stroke="none" stroke-width="2"/>
+<ellipse cx="765.0" cy="704.0" rx="5.0" ry="5.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<rect x="60" y="371" width="133" height="113" rx="4" fill="#718690" stroke="#425a66" stroke-width="2"/>
+<rect x="64" y="382" width="70" height="91" rx="3" fill="#c0ccd0" stroke="#596d78" stroke-width="2"/>
+<rect x="62" y="398" width="40" height="59" rx="2" fill="#263e4b" stroke="#182e38" stroke-width="2"/>
+<rect x="83" y="604" width="116" height="61" rx="4" fill="#24333d" stroke="#17232b" stroke-width="2"/>
+<ellipse cx="90.0" cy="634.5" rx="20.0" ry="28.5" fill="#1b2831" stroke="#111a21" stroke-width="2"/>
+<ellipse cx="90.5" cy="633.5" rx="8.5" ry="14.5" fill="#0d1720" stroke="none" stroke-width="2"/>
+<polyline points="221,628 221,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="257,628 257,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="293,628 293,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="329,628 329,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="365,628 365,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="401,628 401,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="550,628 550,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="586,628 586,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="622,628 622,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="658,628 658,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="694,628 694,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="730,628 730,673" stroke="#6c777e" stroke-width="8" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="187" y="260" width="632" height="405" rx="8" fill="#d8dfe2" stroke="none" stroke-width="2"/>
+<rect x="175" y="246" width="632" height="405" rx="8" fill="#b82e3b" stroke="#7c2330" stroke-width="2"/>
+<rect x="188" y="259" width="606" height="377" rx="4" fill="#c23b48" stroke="none" stroke-width="2"/>
+<ellipse cx="195.0" cy="266.0" rx="7.0" ry="7.0" fill="#d4b06b" stroke="none" stroke-width="2"/>
+<ellipse cx="195.0" cy="266.0" rx="3.0" ry="3.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="785.0" cy="266.0" rx="7.0" ry="7.0" fill="#d4b06b" stroke="none" stroke-width="2"/>
+<ellipse cx="785.0" cy="266.0" rx="3.0" ry="3.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="195.0" cy="630.0" rx="7.0" ry="7.0" fill="#d4b06b" stroke="none" stroke-width="2"/>
+<ellipse cx="195.0" cy="630.0" rx="3.0" ry="3.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<ellipse cx="785.0" cy="630.0" rx="7.0" ry="7.0" fill="#d4b06b" stroke="none" stroke-width="2"/>
+<ellipse cx="785.0" cy="630.0" rx="3.0" ry="3.0" fill="#ffffff" stroke="none" stroke-width="2"/>
+<rect x="214" y="280" width="234" height="28" rx="3" fill="#202a32" stroke="#121b22" stroke-width="2"/>
+<rect x="218" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="221" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="247" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="250" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="276" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="279" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="305" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="308" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="334" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="337" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="363" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="366" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="392" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="395" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="421" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="424" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="517" y="280" width="234" height="28" rx="3" fill="#202a32" stroke="#121b22" stroke-width="2"/>
+<rect x="521" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="524" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="550" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="553" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="579" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="582" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="608" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="611" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="637" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="640" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="666" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="669" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="695" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="698" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="724" y="287" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="727" y="290" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="214" y="595" width="176" height="28" rx="3" fill="#202a32" stroke="#121b22" stroke-width="2"/>
+<rect x="218" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="221" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="247" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="250" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="276" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="279" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="305" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="308" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="334" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="337" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="363" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="366" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="547" y="595" width="176" height="28" rx="3" fill="#202a32" stroke="#121b22" stroke-width="2"/>
+<rect x="551" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="554" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="580" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="583" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="609" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="612" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="638" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="641" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="667" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="670" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<rect x="696" y="602" width="12" height="12" rx="1" fill="#826d34" stroke="#b79f5e" stroke-width="2"/>
+<rect x="699" y="605" width="6" height="6" rx="0" fill="#111b21" stroke="none" stroke-width="2"/>
+<polyline points="257,442 369,442" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="257,457 369,457" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="257,472 369,472" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="257,487 369,487" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="264" y="432" width="98" height="63" rx="3" fill="#26313b" stroke="#15212a" stroke-width="2"/>
+<polyline points="407,456 525,456" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="407,471 525,471" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="407,486 525,486" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="407,501 525,501" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="407,516 525,516" stroke="#bdc5c8" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="414" y="446" width="104" height="78" rx="3" fill="#26313b" stroke="#15212a" stroke-width="2"/>
+<rect x="600" y="352" width="56" height="50" rx="3" fill="#2874a6" stroke="#163f65" stroke-width="2"/>
+<ellipse cx="628.0" cy="375.0" rx="13.0" ry="13.0" fill="#d2dce1" stroke="#536b7a" stroke-width="2"/>
+<polyline points="620,375 636,375" stroke="#486373" stroke-width="4" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="238" y="545" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="286" y="545" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="339" y="545" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="535" y="534" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="589" y="534" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="641" y="534" width="24" height="11" rx="2" fill="#d5c09d" stroke="#95816b" stroke-width="2"/>
+<rect x="727" y="463" width="96" height="68" rx="3" fill="#222b34" stroke="#131f29" stroke-width="2"/>
+<rect x="806" y="475" width="34" height="44" rx="3" fill="#c1cbd0" stroke="#566e78" stroke-width="2"/>
+<ellipse cx="828.0" cy="496.5" rx="9.0" ry="16.5" fill="#142630" stroke="none" stroke-width="2"/>
+<rect x="105" y="862" width="697" height="172" rx="7" fill="#f2f7f8" stroke="#ccdade" stroke-width="2"/>
+<ellipse cx="1534.0" cy="277.0" rx="47.0" ry="47.0" fill="#e9ecee" stroke="#b8c4ca" stroke-width="2"/>
+<rect x="1508" y="320" width="52" height="49" rx="15" fill="#e9ecee" stroke="none" stroke-width="2"/>
+<rect x="1459" y="350" width="151" height="260" rx="41" fill="#e2e9ec" stroke="#bbc9cf" stroke-width="2"/>
+<polyline points="1465,375 1409,486 1400,592" stroke="#d9e3e7" stroke-width="51" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1604,375 1660,486 1669,592" stroke="#d9e3e7" stroke-width="51" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1492,598 1474,761 1467,892" stroke="#d9e3e7" stroke-width="56" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1578,598 1596,761 1603,892" stroke="#d9e3e7" stroke-width="56" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<ellipse cx="1660.0" cy="481.0" rx="23.0" ry="23.0" fill="#ffffff" stroke="#8da1ad" stroke-width="2"/>
+<ellipse cx="1660.0" cy="481.0" rx="10.0" ry="10.0" fill="#d72f3f" stroke="none" stroke-width="2"/>
+<ellipse cx="1409.0" cy="481.0" rx="23.0" ry="23.0" fill="#ffffff" stroke="#8da1ad" stroke-width="2"/>
+<ellipse cx="1409.0" cy="481.0" rx="10.0" ry="10.0" fill="#a0adb7" stroke="none" stroke-width="2"/>
+<ellipse cx="1473.0" cy="793.0" rx="23.0" ry="23.0" fill="#ffffff" stroke="#8da1ad" stroke-width="2"/>
+<ellipse cx="1473.0" cy="793.0" rx="10.0" ry="10.0" fill="#242a32" stroke="none" stroke-width="2"/>
+<rect x="918" y="795" width="303" height="176" rx="10" fill="#6d8390" stroke="#405d6d" stroke-width="2"/>
+<rect x="933" y="810" width="273" height="144" rx="4" fill="#ebf4f6" stroke="none" stroke-width="2"/>
+<polyline points="953,922 984,922 997,907 1006,932 1018,891 1031,922 1061,922 1074,907 1083,932 1095,891 1108,922 1168,922" stroke="#26945c" stroke-width="3" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="897" y="971" width="345" height="20" rx="6" fill="#a8b9c1" stroke="#6a8290" stroke-width="2"/>
+<rect x="839" y="480" width="50" height="34" rx="6" fill="#263b48" stroke="#132b37" stroke-width="2"/>
+<rect x="1096" y="329" width="100" height="180" rx="18" fill="#eff5f7" stroke="#afc2cc" stroke-width="2"/>
+<polyline points="1178,364 1200,364" stroke="#d72f3f" stroke-width="5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1178,417 1200,417" stroke="#a0adb7" stroke-width="5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="1178,470 1200,470" stroke="#242a32" stroke-width="5" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="90" y="76.0" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#183845" text-anchor="start">EKG — Arduino UNO + Olimex SHIELD-EKG/EMG</text>
+<text x="60" y="120.0" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="400" fill="#183845" text-anchor="start">Schemat montażowy · shield na listwach UNO · przewód elektrod Olimex PRO · konfiguracja zgodna z oryginalnym kodem</text>
+<text x="126" y="356.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#183845" text-anchor="middle">USB-B</text>
+<text x="153" y="701.0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">DC: puste</text>
+<text x="487" y="712.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">Arduino UNO R3 · ATmega328P · 5 V</text>
+<text x="224" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">AREF</text>
+<text x="253" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">GND</text>
+<text x="282" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">13</text>
+<text x="311" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">12</text>
+<text x="340" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">11</text>
+<text x="369" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">10</text>
+<text x="398" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">9</text>
+<text x="427" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
+<text x="527" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="556" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="585" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="614" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="643" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="672" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="701" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="730" y="271.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">0</text>
+<text x="224" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">RST</text>
+<text x="253" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">3V3</text>
+<text x="282" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">5V</text>
+<text x="311" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">GND</text>
+<text x="340" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">GND</text>
+<text x="369" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">VIN</text>
+<text x="557" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A0</text>
+<text x="586" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A1</text>
+<text x="615" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A2</text>
+<text x="644" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A3</text>
+<text x="673" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A4</text>
+<text x="702" y="586.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle">A5</text>
+<text x="454" y="354.0" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle">OLIMEX</text>
+<text x="454" y="385.0" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">SHIELD-EKG/EMG</text>
+<text x="313.0" y="468.5" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#eef4f5" text-anchor="middle">AFE</text>
+<text x="466.0" y="490.0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#eef4f5" text-anchor="middle">FILTR</text>
+<text x="628" y="426.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">TR1</text>
+<text x="624" y="452.0" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="400" fill="#ffffff" text-anchor="middle">nie reguluj bez potrzeby</text>
+<text x="771" y="555.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">CH_IN</text>
+<text x="771" y="579.0" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="400" fill="#ffffff" text-anchor="middle">jack 3,5 mm</text>
+<text x="105" y="778.0" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#183845" text-anchor="start">Shield nasuń na komplet listew UNO, zgodnie z ich położeniem.</text>
+<text x="105" y="805.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#576c77" text-anchor="start">5 V, GND i sygnał A0 przechodzą przez złącza; bez przewodów Dupont.</text>
+<text x="105" y="832.0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#576c77" text-anchor="start">Elementy rozmieszczono symbolicznie. Zworki ustawiaj według nadruków swojej płytki.</text>
+<text x="125" y="893.0" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700" fill="#183845" text-anchor="start">Zworki dla dołączonego, niezmienionego kodu</text>
+<text x="125" y="930.0" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#183845" text-anchor="start">3.3V/5V → 5V      AIN_SEL → 1–2 (A0)</text>
+<text x="125" y="965.0" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#ac253b" text-anchor="start">REF_E → OTWARTA      CAL → OTWARTA</text>
+<text x="125" y="998.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#576c77" text-anchor="start">ADC: DEFAULT / AVCC ≈ 5 V. Shield nie podaje napięcia na AREF.</text>
+<text x="125" y="1023.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="start">D4/D9: może pozostać D9; program nie generuje sygnału CAL.</text>
+<text x="1534" y="196.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#183845" text-anchor="middle">Widok z przodu</text>
+<text x="1401" y="655.0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#576c77" text-anchor="middle">Prawa strona osoby</text>
+<text x="1674" y="655.0" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="400" fill="#576c77" text-anchor="middle">Lewa strona osoby</text>
+<text x="1708" y="421.0" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#d72f3f" text-anchor="end">L · czerwony</text>
+<text x="1708" y="448.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#183845" text-anchor="end">lewa ręka</text>
+<text x="1409" y="428.0" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#647b89" text-anchor="middle">R · biały</text>
+<text x="1409" y="455.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#183845" text-anchor="middle">prawa ręka</text>
+<text x="1468" y="948.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#242a32" text-anchor="middle">DRL · czarny</text>
+<text x="1468" y="977.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#183845" text-anchor="middle">prawa noga · nie GND Arduino</text>
+<text x="1400" y="1024.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="middle">Pozycje poglądowe według przewodu Olimex PRO.</text>
+<text x="1069" y="843.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#183845" text-anchor="middle">Serial Plotter</text>
+<text x="1069" y="873.0" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="400" fill="#576c77" text-anchor="middle">115200 bit/s</text>
+<text x="1069" y="1022.0" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#183845" text-anchor="middle">Laptop tylko na baterii</text>
+<text x="894" y="752.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#576c77" text-anchor="middle">USB A–B</text>
+<text x="1021" y="277.0" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#183845" text-anchor="middle">Przewód Olimex</text>
+<text x="1021" y="306.0" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#183845" text-anchor="middle">SHIELD-EKG-EMG-PRO</text>
+<text x="1021" y="403.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#576c77" text-anchor="middle">jack do CH_IN</text>
+<text x="1145" y="371.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#d72f3f" text-anchor="middle">L</text>
+<text x="1145" y="424.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#596f7a" text-anchor="middle">R</text>
+<text x="1145" y="477.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#242a32" text-anchor="middle">DRL</text>
+<text x="1147" y="549.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#576c77" text-anchor="middle">Żyły przewodu</text>
+<text x="1125" y="580.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="middle">Biały pokazano szaro,</text>
+<text x="1125" y="603.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="middle">aby był czytelny.</text>
+<text x="1125" y="654.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="middle">Rysunek nie opisuje</text>
+<text x="1125" y="677.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="middle">kolejności styków jack.</text>
+<text x="77" y="1114.0" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#7d3c25" text-anchor="start">ELEKTRODY NA SKÓRZE: laptop tylko na baterii; odłącz ładowarkę, stację dokującą i pozostałe kable.</text>
+<text x="77" y="1144.0" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="400" fill="#7d3c25" text-anchor="start">Bez zasilacza, oscyloskopu i innego połączenia ze sprzętem sieciowym. Układ edukacyjny, nie do diagnozy.</text>
+<text x="60" y="1184.0" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="400" fill="#576c77" text-anchor="start">Wariant schematu: oryginalny szkic, odniesienie ADC DEFAULT/AVCC; REF_E otwarta. Źródła i ograniczenia: README.md.</text>
+</svg>

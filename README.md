@@ -7,18 +7,21 @@ Edukacyjne projekty Arduino: kod, schematy połączeń i instrukcje uruchomienia
 | Projekt | Płytka | Materiały |
 | --- | --- | --- |
 | [EMG — rejestracja sygnału mięśniowego](projekty/emg/README.md) | Nano / Uno, ATmega328P, 5 V | Kod Arduino, protokół transmisji, schematy i przykład syntetyczny |
+| [EKG — rejestracja z nakładką Olimex](projekty/ekg/README.md) | UNO R3 + SHIELD-EKG-EMG, 5 V | Oryginalny kod, analiza, schematy i dostarczony wynik JPG |
 
 ## Układ repozytorium
 
 ```text
 projekty/
-└── emg/
+├── emg/                # rejestracja sygnału mięśniowego
+└── ekg/
     ├── README.md
-    ├── PROTOKOL.md
-    ├── emg_nano/       # szkic Arduino i nagłówek
-    ├── schematy/       # montaż i połączenia elektryczne
-    └── przyklady/      # ilustracje i przykładowe wyniki
-szablon_projektu/       # punkt wyjścia do następnego projektu
+    ├── ANALIZA_KODU.md
+    ├── ZRODLA.md
+    ├── ekg_test4_ino/   # oryginalny szkic Arduino
+    ├── schematy/        # montaż i połączenia: PNG/JPG/SVG/PDF
+    └── przyklady/       # oryginalny wynik JPG
+szablon_projektu/        # punkt wyjścia do następnego projektu
 DODAWANIE_PROJEKTU.md
 ```
 
