@@ -1,0 +1,19 @@
+# Pliki systemu i edytorów
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Lokalne środowiska Pythona
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Pliki robocze kompilacji
+build/
+.pio/
+*.o
+*.elf
+*.map

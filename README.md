@@ -1,20 +1,29 @@
 # Projekty Arduino
 
-Edukacyjne projekty z wykorzystaniem Arduino. Pierwszy projekt dotyczy rejestracji powierzchniowego sygnału mięśniowego **sEMG** z użyciem **Arduino Nano ATmega328P, 5 V** i modułu **Muscle BioAmp BisCute z MCP6004**.
+Edukacyjne projekty Arduino: kod, schematy połączeń i instrukcje uruchomienia. Każdy projekt ma własny folder, opis sprzętu i materiały.
 
-## EMG — rejestracja sygnału mięśniowego
+## Katalog projektów
 
-Arduino pobiera surowy sygnał z wejścia **A0** z nominalną częstotliwością **4000 Hz**. Dane przesyła przez port szeregowy **115200 baud** w ramkach binarnych z indeksem próbek i kontrolą CRC. Polecenie `R` rozpoczyna pomiar, a `S` go zatrzymuje.
+| Projekt | Płytka | Materiały |
+| --- | --- | --- |
+| [EMG — rejestracja sygnału mięśniowego](projekty/emg/README.md) | Nano / Uno, ATmega328P, 5 V | Kod Arduino, protokół transmisji, schematy i przykład syntetyczny |
 
-- [Kod Arduino](emg_nano/emg_nano.ino) i [nagłówek protokołu](emg_nano/EmgProtocol.h).
-- [Opis transmisji i formatu danych](PROTOKOL.md).
-- [Schemat montażowy](schemat_montazowy.png) i [schemat elektryczny](schemat_elektryczny.png).
-- [Przykładowa analiza danych syntetycznych](przyklad_syntetyczny.png) — ilustracja testu oprogramowania, nie pomiar EMG uczestnika.
+## Układ repozytorium
 
-![Schemat montażowy EMG](schemat_montazowy.png)
+```text
+projekty/
+└── emg/
+    ├── README.md
+    ├── PROTOKOL.md
+    ├── emg_nano/       # szkic Arduino i nagłówek
+    ├── schematy/       # montaż i połączenia elektryczne
+    └── przyklady/      # ilustracje i przykładowe wyniki
+szablon_projektu/       # punkt wyjścia do następnego projektu
+DODAWANIE_PROJEKTU.md
+```
 
-Otwórz folder `emg_nano` w Arduino IDE i wybierz klasyczne Nano z ATmega328P, 16 MHz. Szkic oczekuje na polecenie startu. Do odbierania danych potrzebny jest program zgodny z opisanym protokołem; skrypt PC wspomniany w komentarzu szkicu nie jest częścią tego repozytorium. Transmisja binarna nie jest przeznaczona do Arduino Serial Plotter. FFT i analizę MDF wykonuje się na komputerze.
+## Kolejny projekt
 
-**Przy elektrodach na skórze laptop musi pracować wyłącznie z baterii, bez ładowarki, stacji dokującej i połączeń z innym sprzętem sieciowym. REF modułu nie jest GND Nano.** Projekt ma charakter edukacyjny; nie stanowi zwalidowanego urządzenia diagnostycznego.
+Skopiuj [szablon projektu](szablon_projektu/README.md) do nowego folderu w `projekty/`, uzupełnij jego materiały i dodaj wiersz do katalogu powyżej. Szczegóły: [dodawanie projektu krok po kroku](DODAWANIE_PROJEKTU.md).
 
-Tor analogowy opiera się na otwartym projekcie [Muscle BioAmp BisCute — Upside Down Labs](https://github.com/upsidedownlabs/Muscle-BioAmp-BisCute). Dobór MCP6004 do zasilania 5 V wymaga sprawdzenia parametrów zmontowanego egzemplarza.
+Wybierz projekt z tabeli i zacznij od jego README. Są w nim informacje o płytce, napięciu zasilania, połączeniach i sposobie uruchomienia.
