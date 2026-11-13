@@ -2,8 +2,6 @@
 
 Edukacyjna rejestracja sygnału z elektrod: Arduino odczytuje wyjście nakładki Olimex, filtruje próbki i rysuje przebiegi w Arduino Serial Plotter. Program pokazuje działanie prostego detektora progowego. **Nie jest urządzeniem medycznym ani narzędziem do diagnozy.**
 
-Zachowano oryginalny [kod Arduino](ekg_test4_ino/ekg_test4_ino.ino) oraz dostarczony [wynik JPG](przyklady/ekg_wynik.jpg). [Analiza kodu](ANALIZA_KODU.md) opisuje jego rzeczywiste działanie, ograniczenia i wyniki testów.
-
 ## Potrzebne elementy
 
 | Element | Ilość | Zastosowanie |
